@@ -5,3 +5,6 @@ Conf main
 confC
  
 ThayDoi1
+
+ThayDoi2
+
