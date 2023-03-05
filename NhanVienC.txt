@@ -1,6 +1,6 @@
 Sua D
 
- Conf main
+Conf main
 
 confC
 
